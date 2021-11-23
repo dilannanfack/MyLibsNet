@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibsNet.Serialisation", "MyLibsNet.Serialisation\MyLibsNet.Serialisation.csproj", "{53B68ACE-17C6-43AA-9196-667FE731BC88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53B68ACE-17C6-43AA-9196-667FE731BC88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53B68ACE-17C6-43AA-9196-667FE731BC88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53B68ACE-17C6-43AA-9196-667FE731BC88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53B68ACE-17C6-43AA-9196-667FE731BC88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60438479-D252-4C8C-BB14-48F6CE448E45}
+	EndGlobalSection
+EndGlobal
